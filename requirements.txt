@@ -7,4 +7,3 @@ langchain-google-genai
 google-generativeai
 tiktoken
 
-streamlit = "^1.30.0"  # Use the latest version
