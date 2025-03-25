@@ -1,3 +1,10 @@
 
-python = "^3.11"
+streamlit
+faiss-cpu
+PyMuPDF
+langchain
+langchain-google-genai
+google-generativeai
+tiktoken
+
 streamlit = "^1.30.0"  # Use the latest version
